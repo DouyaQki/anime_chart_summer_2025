@@ -1,0 +1,486 @@
+[
+  {
+    "season_2025": [
+      {
+        "id": 1,
+        "title": "Dandadan 2nd Season",
+        "description": "The second season of Dandadan. Okarun and Jiji have made a strange discovery, while Momo finds herself under attack! What mysterious encounters await them next?!",
+        "genre": ["Action", "Comedy"],
+        "studio": "Science SARU",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/dandadan_2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+        "description": "The second season of Sono Bisque Doll wa Koi wo Suru. When Marin Kitagawa and Wakana Gojo met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana’s world keeps growing. New developments arise as Marin’s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana’s story of cosplay and thrills continues!",
+        "genre": ["Comedy", "Ecchi"],
+        "studio": "CloverWorks",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/sono_bisque_2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Kaijuu 8-gou 2nd Season",
+        "description": "The second season of Kaijuu 8-gou. Kafka must face new challenges, new Kaiju, and… a new Captain?!",
+        "genre": ["Action", "Sci-Fi"],
+        "studio": "Production I.G",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kaijuu_8gou_2.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Kaoru Hana wa Rin to Saku",
+        "description": "Chidori High is a boys’ school that takes in the dregs of society with the lowest grades. Next door stands Kikyo Girls’ High, where the wealthy, high-class families send their precious daughters. Chidori second-year Rintaro, who has a fierce face but a gentle heart, is helping at his family’s patisserie when he meets a girl named Kaoruko. The two hit it off right away…but this blissful peace is quickly disturbed when Rintaro discovers that Kaoruko is actually a student at Kikyo. Worse, she doesn’t seem to realize what a huge problem this really is! Will these two be able to forge a path for themselves, and sidestep the traps (metaphorical and literal) laid by their classmates?",
+        "genre": ["Comedy", "Drama"],
+        "studio": "CloverWorks",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kaoru_Hana_wa_Rin_to_Saku.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Gachiakuta",
+        "description": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…",
+        "genre": ["Action", "Drama"],
+        "studio": "bones film",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Gachiakuta.jpg"
+      },
+      {
+        "id": 6,
+        "title": "SAKAMOTO DAYS Part 2",
+        "description": "The second part of SAKAMOTO DAYS.",
+        "genre": ["Action", "Comedy"],
+        "studio": "TMS Entertainment",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/SAKAMOTO_DAYS_2.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Yofukashi no Uta Season 2",
+        "description": "The second season of Yofukashi no Uta. Ko overcomes his confusion about becoming a vampire and decides to \"like\" Nazuna, while Nazuna resolves to make Ko \"fall in love\" with her. Without understanding what \"love\" even is, the two of them spend their nights together in a frenzy. Meanwhile, Detective Uguisu Anko is closing in with her plot to kill vampires, not just Nazuna. A vampire's weakness is \"anything they were attached to when they were human\" and so they all try to get rid of this weakness before it's too late. But, Nazuna has no memory of her human life. What is Nazuna's hidden past? Why did Anko start killing vampires? And what is the \"secret\" that Nazuna and Anko share? For Ko, Nazuna, Anko, a fun \"late night\" doesn't end here... a new \"night\" begins!",
+        "genre": ["Comedy"],
+        "studio": "LIDENFILMS",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Yofukashi_no_Uta_2.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Tate no Yuusha no Nariagari Season 4",
+        "description": "The fourth season of Tate no Yuusha no Nariagari. The Return of the Exiled━",
+        "genre": ["Action", "Adventure"],
+        "studio": "Kinema Citrus",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Tate_no_Yuusha_no_Nariagari_4.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Hikaru ga Shinda Natsu",
+        "description": "Two best friends living in a rural Japanese village: Yoshiki and Hikaru. Growing up together, they were inseparable… until the day Hikaru came back from the mountains, and was no longer himself. “Something” has taken over Hikaru’s body, memories, feelings… and everything they know begins to unravel.",
+        "genre": ["Horror", "Mystery"],
+        "studio": "CygamesPictures",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Hikaru_ga_Shinda_Natsu.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+        "description": "Sequel to the film Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai. IS THE REAL MINISKIRT SANTA IN A SEA OF FAKES? Sakuta thought he’d already accomplished step one: Find Touko Kirishima. The next step was convincing her to help protect Mai, but that proved easier said than done. In the process, however, he makes a confusing discovery: There are multiple Touko Kirishimas! The Touko he knows may not actually be the person he’s looking for! With clues from his friends’ prophetic dreams, he gets closer to figuring out exactly what danger awaits Mai, but he’ll have to sort through the fake Kirishimas and determine who’s the real deal before it’s too late…",
+        "genre": ["Comedy"],
+        "studio": "CloverWorks",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Seishun_Buta_Yarou_wa_Santa_Claus_no_Yume_wo_Minai.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Dr.STONE SCIENCE FUTURE Part 2",
+        "description": "The second cour of the fourth season of Dr.STONE.",
+        "genre": ["Action", "Adventure"],
+        "studio": "-",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Dr_STONE_T4P2.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Grand Blue Season 2",
+        "description": "The second season of Grand Blue.",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "Zero-G, Liber",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Grand_Blue_2.jpg"
+      },
+      {
+        "id": 13,
+        "title": "New PANTY & STOCKING with GARTERBELT",
+        "description": "The second season of Panty & Stocking with Garterbelt. Unveiled at Anime Expo 2022's \"TRIGGER 10 YEAR ANNIVERSARY & ANNOUNCEMENT\" panel.",
+        "genre": ["Action", "Comedy"],
+        "studio": "TRIGGER",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/New_PANTY_&_STOCKING_with_GARTERBELT.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
+        "description": "The second season of Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu.",
+        "genre": ["Action", "Adventure"],
+        "studio": "Tsumugi Akita Anime Lab",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Tensei_Shitara_Dai_Nana_Ouji_Dattanode_Kimamani_Majutsu_wo_Kiwamemasu_2.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Kanojo, Okarishimasu 4th Season",
+        "description": "The fourth season of Kanojo, Okarishimasu. Kazuya’s ready to confess with the lush paradise of Hawaii as a backdrop. But renting Chizuru for the dream trip turns into a war zone of love due to Ruka’s aggressive advances and Mami’s scheming. Despite the chaos, this is Kazuya’s moment to bare his heart. Will his words reach Chizuru? And if they do, what will she even say?",
+        "genre": ["Comedy", "Romance"],
+        "studio": "TMS Entertainment",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kanojo_Okarishimasu_4.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Tougen Anki",
+        "description": "The bloodlines of “Oni” and “Momotarou” have been passed down among certain humans for generations. Long ago, the Oni, aware of their own ferocity, lived in seclusion. However, their peace was shattered by an invasion led by Momotarou. Over thousands of years, these two factions formed the “Momotarou Agency” and the “Oni Agency,” respectively, and have been locked in conflict ever since. The protagonist, Shiki Ichinose, suddenly learns of his Oni lineage following an unexpected attack by Momotarou. This revelation sets Shiki on a path to discover the destiny that lies within his blood — a meeting with the Oni dwelling within him. —A new generation of dark heroics begins here in this tale of demons!",
+        "genre": ["Action", "Mystery"],
+        "studio": "Studio Hibari",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Tougen_Anki.jpg"
+      },
+      {
+        "id": 17,
+        "title": "CITY THE ANIMATION",
+        "description": "This town, is not just a normal town. There's laughter, love and emotional moments. An unpredictable ordinary life presented by the residents. Exciting stuffs come one after another. Welcome to CITY.",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "Kyoto Animation",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/CITY.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "description": "Monica Everett, the Silent Witch, is the world’s only practitioner of Voiceless Magic, a veritable heroine who single-handedly fended off the Black Dragon of legend. However, the young prodigy is actually…super-duper shy! Yup, turns out she only learned Voiceless Magic to avoid speaking in public. Ignorant of this, the Seven Sages have placed her on a top-secret mission to guard the Second Prince. Can Monica keep it together as she contends with both social interaction and the evils targeting the young royal?",
+        "genre": ["Adventure", "Fantasy"],
+        "studio": "Studio Gokumi",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Silent_Witch.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",
+        "description": "Renako Amaori is leaving her awkward and lonely junior high school life behind, determined to become a normal girl with normal friends in high school. Glamorous, confident Mai Ouzuka is Renako’s total opposite: wealthy, outgoing, and a literal fashion model. Against the odds, the two girls form an immediate connection. Renako thinks she may have found the best friend of her dreams…until Mai’s romantic confession sends her into a tailspin. Renako wants to prove to Mai that being BFFs is better than being girlfriends, but Mai is dead set on convincing Renako that they’re destined to be lovers. Let the love games begin!",
+        "genre": ["Comedy", "Romance"],
+        "studio": "studio MOTHER",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Watashi_ga_Koibito_ni Nareru Wake_Naijan_Murimuri.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Kakkou no Iinazuke Season 2",
+        "description": "The second season of Kakkou no Iinazuke. Umino Nagi and Amano Erika were born on the same day and swapped at birth. Nagi was raised as the son of a diner owner, and Erika the daughter of a hotel tycoon. Their parents encourage them to become engaged, and they begin life together. Soon though, infatuations arise as Nagi becomes stuck in a love quadrangle. Life and love are embroiled in epic turmoil as fate is set in motion once again!",
+        "genre": ["Comedy", "Romance"],
+        "studio": "Okuruto Noboru",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kakkou_no_Iinazuke_2.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+        "description": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
+        "genre": ["Adventure", "Comedy"],
+        "studio": "Studio Gokumi, AXsiZ",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Jidou_Hanbaiki_ni_Umarekawatta_Ore_wa_Meikyuu_wo_Samayou.jpg"
+      },
+      {
+        "id": 22,
+        "title": "Tsuyokute New Saga",
+        "description": "After a fierce battle, Magic swordsman Kyle finally killed the Demon Lord after being seriously injured in the battle. Kyle on the verge of death approaches a relic which was in possession of the Demon Lord and it sends him to the past. After recovering from the initial shock, he decides to use this opportunity to avoid making the same mistakes of the past and become stronger. Note: Initially scheduled for July 2023, the anime saw several delays and a complete change in Director (previously Norikazu Ishigooka) and Studio (previously Yokohama Anime Lab x Makaria)",
+        "genre": ["Adventure", "Fantasy"],
+        "studio": "Sotsu, Studio Massket, Studio Clutch",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Isekai_Mokushiroku_Mynoghra_Hametsu_no_Bunmei_de_Hajimeru_Sekai_Seifuku.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Mizu Zokusei no Mahou Tsukai",
+        "description": "Ryou is delighted to be reincarnated into the fantastical world of Phi, where he thinks he’ll get to live a quiet life learning to use his newfound water magic. Going with the flow here, however, means something very different. Ryou is immediately pitted against the wild lands he winds up in and the slew of deadly monsters that call the remote subcontinent home. You’d think he’d forget about taking it easy when he’s stuck fighting for his life, but lucky for Ryou, he’s naturally optimistic, clever, and blessed with the hidden “Eternal Youth” trait. Twenty years pass in the blink of an eye, and each encounter along the way pushes him one step closer to the pinnacle of human magic. Little does he realize that’s only the opening chapter of his tale. A fateful meeting soon thrusts Ryou to the forefront of history, forever changing the course of his life... Thus begins the adventures of the strongest water magician the world has ever seen—who also likes to do things at his own pace!",
+        "genre": ["Action", "Adventure"],
+        "studio": "TYPHOON GRAPHICS, Wonderland",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Mizu_Zokusei_no_Mahou_Tsukai.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+        "description": "Takuto Ira succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favorite game, but as the god who commands the evil civilization Mynoghra. With Mynoghra's beautiful hero unit, Sludge Witch Atou by his side, not even legendarily difficult race traits will stand in the way of restarting their civilization! “Lord Takuto…won't you start over with me?” Explore, Expand, Exploit, Exterminate! A tactical fantasy world is waiting for heroes like you! Join Eternal Nations today!",
+        "genre": ["Action", "Adventure"],
+        "studio": "Maho Film",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Tsuyokute_New_Saga.jpg"
+      },
+      {
+        "id": 25,
+        "title": "Jibaku Shounen Hanako-kun 2 Part 2",
+        "description": "Sequel to Jibaku Shounen Hanako-kun 2.",
+        "genre": ["Action", "Comedy"],
+        "studio": "-",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Jibaku_Shounen_Hanako_kun_2P2.jpg"
+      },
+      {
+        "id": 26,
+        "title": "Ruri no Houseki",
+        "description": "Mineral collecting is like a modern-day treasure hunt! Ruri, a high school girl who loves jewelry and accessories, gets into the world of mineral collecting, venturing into mountains, rivers, and caves. The first volume features numerous minerals, including quartz, garnet, pyrite, gold sand, and fluorite. The manga is full of fascinating scenes focusing on specialized tools such as a panning dish, hammer, and topographical maps. An authentic scientific adventure based on the author's solid knowledge of mineralogy!",
+        "genre": ["Adventure"],
+        "studio": "Studio Bind",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Ruri_no_Houseki.jpg"
+      },
+      {
+        "id": 27,
+        "title": "Arknights: Enshin Shomei",
+        "description": "\"She\" was supposed to be a beacon of hope. But now her anger and hatred have turned into flames of war and are about to engulf the people. Only Rhodes Island, a neutral organization, can stop Reunion's rampage and the conspiracy behind it. Amiya and the others head towards Chernobog's Core City, which is on a collision course with Lungmen. What fate awaits them there...",
+        "genre": ["Action", "Fantasy"],
+        "studio": "Yostar Pictures",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Arknights_Enshin_Shomei.jpg"
+      },
+      {
+        "id": 28,
+        "title": "Futari Solo Camp",
+        "description": "Gen Kinokura, 34 years old. A solitary camper who cherishes his alone time in nature, Gen enjoys his usual solo camping trips. However, he unexpectedly encounters Shizuku Kusano, a complete beginner in camping. Reluctantly, Gen ends up camping with Shizuku, despite it being the last thing he wanted to do. What will become of Gen’s peaceful camping life now that it’s turned upside down by this new companion?",
+        "genre": ["Slice of Life"],
+        "studio": "SynergySP",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Futari_Solo_Camp.jpg"
+      },
+      {
+        "id": 29,
+        "title": "Mikadono Sanshimai wa Angai, Choroi.",
+        "description": "Though Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!",
+        "genre": ["Comedy", "Romance"],
+        "studio": "P.A.WORKS",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Mikadono_Sanshimai_wa_Angai_Choroi.jpg"
+      },
+      {
+        "id": 30,
+        "title": "Bad Girl",
+        "description": "The story follows Yuu Yutani, a first-year high school student who is a good girl. However, to attract the attention of the school's disciplinary committee chairman and \"madonna\" Atori Mizutori, she begins to act like a delinquent.",
+        "genre": ["Comedy"],
+        "studio": "Bridge",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Bad_Girl.jpg"
+      },
+      {
+        "id": 31,
+        "title": "Watari-kun no xx ga Houkai Sunzen",
+        "description": "Naoto Watari lives solely for his little sister, Suzushiro, until his chaotic childhood friend, Satsuki, storms back into his life. Without uttering a single word, her very presence ignites buried memories and unravels his rigid routine. As tensions rise and secrets surface, Naoto’s devotion to Suzushiro clashes with unresolved pain, threatening to collapse his fragile world.",
+        "genre": ["Comedy", "Drama"],
+        "studio": "Staple Entertainment",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Watari_kun_no_xx_ga_Houkai_Sunzen.jpg"
+      },
+      {
+        "id": 32,
+        "title": "Dekin no Mogura",
+        "description": "\"I won't die 'cause I was banned from the afterlife.\" A shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping to make a comeback. It seems that those who encounter him begin to see peculiar things.",
+        "genre": ["Comedy", "Drama"],
+        "studio": "Brain's Base",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Dekin_no_Mogura.jpg"
+      },
+      {
+        "id": 33,
+        "title": "Ame to Kimi to",
+        "description": "On a rainy day, Fuji meets a cute critter posing as a dog and offering an umbrella and a cue card that says, “Please take me home” and she can’t resist. With this dog-poster’s quirky charm and mysterious ways, life together becomes a heartwarming adventure of friendship and shared seasons.",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "Lesprit",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Ame_to_Kimi_to.jpg"
+      },
+      {
+        "id": 34,
+        "title": "Jigoku Sensei Nube (2025)",
+        "description": "A new anime project for Jigoku Sensei Nube. The story follows Meisuke Nueno, aka \"Nube\" a psychic teacher with a demon hand, as he battles evil spirits and monsters to protect his students in this saga that employs elements of Japanese mythology and folklore to tell a fan-pleasing action story. Known for its occult and horror elements on school ghost stories and urban legends, Nube captivated readers across generations with his heroic efforts to save his students from supernatural threats.",
+        "genre": ["Action", "Comedy"],
+        "studio": "Studio KAI",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Jigoku_Sensei_Nube_2025.jpg"
+      },
+      {
+        "id": 35,
+        "title": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+        "description": "The story centers on the the titular Clevatess, the lord of Dark Beasts, who wields both uncanny intellect and destructive power. Frustrated by the 13 heroes tasked to destroy him, he has decided to be rid of humanity once and for all. However, he has been charged with one nuisance: he revived a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. The world stands upon the brink of Armageddon, with the obligation of raising one child holding it all back. Now bound together, what fate awaits this unlikely trio?",
+        "genre": ["Action", "Drama"],
+        "studio": "Lay-duce",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Clevatess.jpg"
+      },
+      {
+        "id": 36,
+        "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+        "description": "With unmaintained red hair and shabby clothes, Marie, the baron's daughter, has been treated like a servant all her life. Count Granado, the country's richest man, who is said to be a difficult misogynist, falls in love with her at first sight. However, due to a misunderstanding, Count Granado proposes to her sister Anastasia, who looks like a princess, instead of the ragged Marie. A very popular work from \"Become a Novelist\"! Marie's Cinderella story that began with a hero's misunderstanding!",
+        "genre": ["Drama", "Romance"],
+        "studio": "LandQ studios",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Zutaboro_Reijou_wa_Ane_no_Moto_Konyakusha_ni_Dekiai_Sareru.jpg"
+      },
+      {
+        "id": 37,
+        "title": "GaCen Shoujo to Ibunka Kouryuu",
+        "description": "The story follows Renji Kusakabe, a young man who works part time at a game center arcade. One day, Renji encounters an English girl named Lily, and the two of them trade diaries and begin an unlikely friendship of cultural exchange...",
+        "genre": ["Comedy", "Romance"],
+        "studio": "Nomad",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/GaCen_Shoujo_to_Ibunka_Kouryuu.jpg"
+      },
+      {
+        "id": 38,
+        "title": "Nyaight of the Living Cat",
+        "description": "In the near future, a unique disease has swept across the planet: a virus that transforms humans into cats! And the horde is expanding, since if these adorable kitties snuggle with a human, the human is transformed into yet another cat. A small group of cat-loving survivors is trying to escape the madness, but how can you defend yourself against a threat you just want to cuddle and pet?! This wild new take on a post-apocalyptic survival tale will make you roll over and purr with delight!",
+        "genre": ["Horror"],
+        "studio": "OLM",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Nyaight_of_the_Living_Cat.jpg"
+      },
+      {
+        "id": 39,
+        "title": "Mattaku Saikin no Tantei to Kitara",
+        "description": "Nagumo Keiichirou was a genius high-school detective. No case was complex enough for him. But what happens to genius detectives when they get older? Now 35, with bad hips, running a failing detective agency with no cases to solve and struggling to pay the rent, he's at a dead end. In comes a high school girl in his office who says she wants to work with him. With her help, will the out-of-touch, old-fashioned Nagumo get back the fire of his youth?",
+        "genre": ["Comedy", "Mystery"],
+        "studio": "-",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Mattaku_Saikin_no_Tantei_to_Kitara.jpg"
+      },
+      {
+        "id": 40,
+        "title": "Turkey!",
+        "description": "\"Turkey\" is a bowling term for scoring three consecutive strikes. Mai, a second-year student and captain of the Ikkokukan High School Bowling Club, is a genius who can't seem to win a match. Whenever she scores a Turkey, she mysteriously follows it up with an unyielding split—the Snake Eyes. One day, Rina, the club’s only first-year member, confronts her \"You’re doing it on purpose, aren’t you?\" \"You’re running away from winning. But I want to win. If you have no intention of winning, I’ll quit.\"",
+        "genre": ["Slice of Life", "Sports"],
+        "studio": "BAKKEN RECORD",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Turkey.jpg"
+      },
+      {
+        "id": 41,
+        "title": "Koujo Denka no Katei Kyoushi",
+        "description": "After failing the final exam for his dream job at the royal court, promising young sorcerer Allen wants nothing more than to retreat to a simple life in the countryside. Unfortunately for him, he can’t even afford the train fare! His only solution is to get a job, but his one lead is anything but modest—Duke Howard, one of the kingdom’s most powerful nobles, needs a private tutor for his daughter Tina. Despite her academic brilliance, Tina is incapable of casting even a single spell. To make matters worse, entrance exams for the prestigious Royal Academy are fast approaching, and magical aptitude is mandatory! Can Allen use his unique brand of spellcasting to help Tina overcome her magical impairment, a mystery that not even the kingdom’s finest sorcerers have been able to solve? And does her father, the duke, even want him to?",
+        "genre": ["Drama", "Fantasy"],
+        "studio": "Studio Blanc",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Koujo_Denka_no_Katei_Kyoushi.jpg"
+      },
+      {
+        "id": 42,
+        "title": "Food Court de, Mata Ashita.",
+        "description": "To their classmates, Wada is a quiet rich girl while Yamamoto is an intimidating lone wolf…but what they don’t know is that Wada is a mobile game addict in a passionate love-hate relationship (with a 2D character) and Yamamoto has a penchant for urban legends with eyes only for her favorite YouTuber. And their biggest not-so-secret secret—these unlikely friends meet at the food court every day after school to rant, rave, and learn what makes each other tick!",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "Atelier Pontdarc",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Food_Court_de_Mata_Ashita.jpg"
+      },
+      {
+        "id": 43,
+        "title": "Tsuihousha Shokudou e Youkoso!",
+        "description": "Dennis is one of the most popular members of the Silverwing Battalion, the world's strongest party. So popular, in fact, that the party leader expels him from the group out of spite. Stripped of his home, Dennis decides to start life anew following his true calling—as a chef! His life as an adventurer might be over, but his new life as a cook is just beginning. He teams up with Atelier, a young girl who has been similarly exiled from her home, and opens up a restaurant for adventurers. He's finally able to live out his dream, but he'll need use of more than just his cooking skills to take care of his eclectic customers' problems!",
+        "genre": ["Adventure", "Comedy"],
+        "studio": "OLM",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Tsuihousha_Shokudou_e_Youkoso.jpg"
+      },
+      {
+        "id": 44,
+        "title": "Hotel Inhumans",
+        "description": "The most exquisite hotels in the world have certain standards: the finest food, the most sublime comfort, captivating entertainment, the latest weapons, reliable identity fabrication, and untraceable corpse disposal. The name of this place where the people who have “forgotten their humanity” visit is “Hotel Inhumans.” The hitmen guests are welcomed by the concierges who never say \"no.\"",
+        "genre": ["Action", "Drama"],
+        "studio": "Bridge",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Hotel_Inhumans.jpg"
+      },
+      {
+        "id": 45,
+        "title": "Kizetsu Yuusha to Ansatsu Hime",
+        "description": "Hero Toto possesses great skills, but his extreme shyness has left him unable to form a party, causing him to remain stuck in the town where his journey began. One day, he is suddenly invited to join a party by three beautiful women—Ciel, Anemone, and Gore. Overjoyed at finally setting off on an adventure, Toto is filled with excitement... but little does he know, these women are dead set on killing him! A deathly harem romcom unfolds as the socially anxious hero, who faints from mere flustered excitement around women, finds himself the target of three deadly companions, each with their own reasons for wanting him gone!",
+        "genre": ["Action", "Comedy"],
+        "studio": "CONNECT",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kizetsu_Yuusha_to_Ansatsu_Hime.jpg"
+      },
+      {
+        "id": 46,
+        "title": "9-nine- Shihaisha no Oukan",
+        "description": "9-nine- is a tale of the town of Shiromitsugawa, host to mysterious Artifacts and the superpowers they bestow on their Users. A tale of growing trust and budding romance between the protagonist and the heroine, and also a murder mystery where they hunt down the culprit behind a series of supernatural murders.",
+        "genre": ["Mystery"],
+        "studio": "PRA",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Nukitashi.jpg"
+      },
+      {
+        "id": 47,
+        "title": "Nukitashi THE ANIMATION",
+        "description": "Seiran Island. Even here in paradise, there are those who work in the shadows to bring it down... United, these misfits stand side by side as the secret society NLNS. As their founder and head honcho, I, Junnosuke Tachibana, won’t stop until we’ve crushed this crazy law once and for all! I’ve even found a benefactor in this crusty old rich guy, name unknown... He’s hooked us up with a secret base and a buttload of cash already. In return, he wants us to find someone and “protect her at all costs.” Apparently, she holds the key to our mission’s success...? In which case, there’s only one thing to do: locate this mystery girl. And all while keeping the SHO off our scent, too... Make no mistake! I’ll stop that law in its tracks, just wait and see!",
+        "genre": ["Comedy", "Drama"],
+        "studio": "Passione",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/9_nine.jpg"
+      },
+      {
+        "id": 48,
+        "title": "Kamitsubaki-shi Kensetsuchuu.",
+        "description": "Seven years after humanity was devastated by a major disaster, a beacon of science and prosperity rises in Kamitsubaki City. But lurking in its shadows are Tesseractor, monsters born from human darkness. Only the Witchling, five girls with voices that wield magic, stand against them. With every note, they fight, not just to protect the peace of the city, but to heal a broken world. Note: Announced in the \"Kamitsubaki Yoyogi Kessen 2024: V.W.P 2nd ONE-MAN LIVE - Genshou II\" Day 1 concert.",
+        "genre": ["Mystery"],
+        "studio": "Shogakukan Music & Digital Entertainment",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Kamitsubaki_shi_Kensetsuchuu.jpg"
+      },
+      {
+        "id": 49,
+        "title": "Fermat no Ryouri",
+        "description": "Kitada Gaku is a prodigy in Mathematics and a scholarship holder at Wels Private Academy, a renowned institution with a long history in the International Mathematical Olympiad. After a series of unfortunate events, he meets Asakura Kai, a culinary prodigy with his own catering business. What does the future hold for these two geniuses, and how do their paths intertwine with each other's?",
+        "genre": ["Drama", "Slice of Life"],
+        "studio": "domerica",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Fermat_no_Ryouri.jpg"
+      },
+      {
+        "id": 50,
+        "title": "Karaoke Iko!",
+        "description": "Nothing worries Satomi Oka more than the upcoming final choir competition of his middle school career -- right up until he is accosted by a stranger from the shadows who demands, “Let’s go karaoke!” As a yakuza, Kyouji Narita doesn’t scare easily, but a terrifying prospect has driven him to seek Satomi’s help. The boss is holding a karaoke contest, with the loser forced to get a tattoo to be selected and torturously applied by the boss himself! Oka has been to many vocal rehearsals over the years, but never one-on-one karaoke sessions with a gangster!!",
+        "genre": ["Comedy", "Music"],
+        "studio": "Doga Kobo",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Karaoke_Iko.jpg"
+      },
+      {
+        "id": 51,
+        "title": "Muchuu sa, Kimi ni.",
+        "description": "Hayashi’s frank, guileless demeanor quietly draws the attention of classmates and strangers as he counts all the stairs in school, photographs street signs, and dries sweet potatoes on the classroom balcony. In a world shaped by conformity, Hayashi is refreshingly and unapologetically true to himself. Conversely, Nikaidou has worked very hard to perfect a gloomy, dour façade that keeps his classmates far, far away. While much of the school regards Nikaidou as a bad omen, one student catches a glimpse behind the mask and—undeterred by rumors of bad luck and supernatural powers—begins to pick away Nikaidou’s carefully crafted persona…",
+        "genre": ["Slice of Life"],
+        "studio": "Doga Kobo",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Muchuu_sa_Kimi_ni.jpg"
+      },
+      {
+        "id": 52,
+        "title": "Utagoe wa Mille-Feuille",
+        "description": "Anime adaptation of the a cappella music project Utagoe wa Mille-Feuille.",
+        "genre": ["Music", "Slice of Life"],
+        "studio": "Jumondou",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Utagoe_wa_Mille_Feuille.jpg"
+      },
+      {
+        "id": 53,
+        "title": "Onmyo Kaiten Re:verse",
+        "description": "The anime is set in an alternate version of Heian-kyou, the old name of Kyoto and the capital during Japan's Heian era. This alternate version of the city is named Denji Heian-kyou. A delinquent high schooler named Takeru Narehira resides in our world, but after an unfortunate accident, is transported to Denji Heian-kyou. Here, he immediately meets Tsukimiya, a woman he has seen many times before in his dreams before. Hardly a moment passes after that encounter when Takeru and Tsukimiya encounter an oni monster, and lose their lives. Takeru awakens, stunned to find himself again at Denji Heian-kyou. He puts together that he has the power to go back in time. Now he resolves to learn this world's version of mystical onmyōjutsu techniques, and become an onmyōji sorcerer to save Tsukimiya.",
+        "genre": ["Action"],
+        "studio": "David Production",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Onmyo_Kaiten_Re_verse.jpg"
+      },
+      {
+        "id": 54,
+        "title": "Busamen Gachi Fighter",
+        "description": "His looks are -255, touching girls causes him pain, and sexual acts will literally tear him apart. Just what can our ex-salesman Shigeru get in the other world in exchange for such inconveniences...? This is an epic tale of one very ugly, but ridiculously strong man!",
+        "genre": ["-"],
+        "studio": "WHITE FOX",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Busamen_Gachi_Fighter.jpg"
+      },
+      {
+        "id": 55,
+        "title": "Osomatsu-san 4",
+        "description": "The fourth season of Osomatsu-san.",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "PIERROT FILMS",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Osomatsu_4.jpg"
+      },
+      {
+        "id": 56,
+        "title": "Puniru wa Kawaii Slime 2nd Season",
+        "description": "The second season of Puniru wa Kawaii Slime.",
+        "genre": ["Comedy", "Fantasy"],
+        "studio": "TOHO animation STUDIO",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Puniru_wa_Kawaii_Slime_2.jpg"
+      },
+      {
+        "id": 57,
+        "title": "Necronomico no Cosmic Horror Show",
+        "description": "We all need a chance to change our lives! The story follows Miko Kurono, who began her dream career as a livestreamer under the name \"Necronomico\" after graduating middle school. Amidst spending her days with childhood friend Mayu Mayusaka and rival Kanna Kagurazaka, she's introduced to a new VR game project!? Upon encountering the game, the girls start pursuing the 'irreplacable now'.",
+        "genre": ["-"],
+        "studio": "Studio Gokumi",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Necronomico_no_Cosmic_Horror_Show.jpg"
+      },
+      {
+        "id": 58,
+        "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+        "description": "New series for Binan Koukou Chikyuu Bouei-bu. Note: Relations is provisional and will be updated when more info is announced.",
+        "genre": ["Comedy"],
+        "studio": "Studio DEEN",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Binan_Koukou_Chikyuu_Bouei_bu_Haikara.jpg"
+      },
+      {
+        "id": 59,
+        "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+        "description": "The fourth season of Cardfight!! Vanguard: Divinez. The 3rd Deluxe has finally reached its climax! The heated qualifiers have ended, and now the curtain rises on the Final! Who will grasp the title of the strongest in Vanguard!?",
+        "genre": ["Action", "Adventure"],
+        "studio": "Kinema Citrus",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Cardfight.jpg"
+      },
+      {
+        "id": 60,
+        "title": "Gakkou dewa Oshiete Kurenai Taisetsu na Koto",
+        "description": "",
+        "genre": ["Comedy", "Slice of Life"],
+        "studio": "Imagica Infos, Imageworks Studio",
+        "img": "https://douyaqki.github.io/anime_chart_summer_2025/Gakkou_dewa_Oshiete_Kurenai_Taisetsu_na_Koto.jpg"
+      }
+    ]
+  }
+]
