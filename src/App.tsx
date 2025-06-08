@@ -3,25 +3,22 @@ import "./App.css";
 import Cards from "./Cards";
 import FilterAnime from "./FilterAnime";
 
-type T_chart = {
-  season_2025: {
-    id: number;
-    title: string;
-    description: string;
-    genre: string[];
-    studio: string;
-    img: string;
-  }[];
-};
-
 function App() {
-  const [shows, setShows] = useState<T_chart[] | []>([]);
+  const [resultSearchedTitle, setResultSearchedTitle] = useState("");
+  
+
+  const inputResult = (value: string) => {
+    setResultSearchedTitle(value);
+  };
 
   return (
     <>
-      <FilterAnime />
-      <main className="grid grid-cols-1 grid-rows-60 m-2 gap-4">
-        <Cards />
+      <FilterAnime
+        inputResult={inputResult}
+        resultSearchedTitle={resultSearchedTitle}
+      />
+      <main className="grid grid-cols-1 auto-rows-auto m-2 gap-4">
+        <Cards resultSearchedTitle={resultSearchedTitle} />
       </main>
     </>
   );

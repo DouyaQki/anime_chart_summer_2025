@@ -1,19 +1,28 @@
+import { useQuery } from "@tanstack/react-query";
 import "./App.css";
-import { useSuspenseQuery } from "@tanstack/react-query";
-// import imgFallback from "../public/show_img/fallback.png";
+import queryProps from "./queryProps";
 
-const QUERY_KEY = "anichart";
+export type CBProperties = {
+  id: number;
+  title: string;
+  description: string;
+  genre: string[];
+  studio: string;
+  img: string;
+};
 
-export default function Cards() {
-  const { data } = useSuspenseQuery({
-    queryKey: [QUERY_KEY],
-    queryFn: getChart,
-  });
+function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
+  const { data, isPending, isError } = useQuery(queryProps());
 
-  const { season_2025 } = data[0];
+  if (isError) return <p>UPA!</p>;
+  if (isPending) return <h3 className="font-bold">Loading...</h3>;
 
-  return season_2025.map(({ id, img, title, studio, description, genre }) => {
-    const thereIsNoTags = genre.length === 0 || genre.includes("-");
+  const season2025 = data[0].season_2025;
+
+  function CBCard(element: CBProperties) {
+    const { id, img, title, studio, description, genre } = element;
+
+    const thereIsNoTags = genre.length === 0;
 
     return (
       <article
@@ -22,20 +31,20 @@ export default function Cards() {
       >
         <div id="preview" className="relative w-2/5 font-bold">
           <div className="w-full bottom-0 bg-[#292929da] absolute flex flex-col gap-2 rounded-bl-md p-2">
-            <p className="">{title}</p>
-            <p className="text-[#00bcff]">
-              {studio.includes("-") ? "" : studio}
-            </p>
+            <p>{title}</p>
+            <p className="text-[#00bcff]">{studio}</p>
           </div>
           <img
             src={img}
-            alt=""
+            alt={title}
             className="h-full w-full bg-amber-600 rounded-bl-md rounded-tl-md"
           />
         </div>
 
         <div id="info" className="w-2/3 flex flex-col justify-between">
-          <p className="p-3 overflow-y-auto">{description}</p>
+          <p id="card-description" className="p-3 overflow-y-auto">
+            {description}
+          </p>
           {thereIsNoTags ? null : (
             <div className="text-[.7rem] py-2 px-3 flex gap-4 bg-[#191d26] rounded-br-md">
               {genre.map((tag, idx) => (
@@ -43,7 +52,7 @@ export default function Cards() {
                   key={idx}
                   className="text-[#191d26] rounded-full px-2 bg-amber-400 font-bold"
                 >
-                  {tag.includes("-") ? "" : tag}
+                  {tag}
                 </p>
               ))}
             </div>
@@ -51,24 +60,20 @@ export default function Cards() {
         </div>
       </article>
     );
+  }
+
+  const season2025Filtered = season2025?.filter((el) => {
+    const regex = new RegExp(resultSearchedTitle, "g");
+
+    return regex.test(el.title.toLowerCase());
   });
+
+  if (season2025Filtered.length === 0)
+    return <h3 className="text-2xl font-bold">Anime not found</h3>;
+
+  if (season2025Filtered.length >= 1) return season2025Filtered?.map(CBCard);
+
+  return season2025?.map(CBCard);
 }
 
-async function getChart(): Promise<T_chart[]> {
-  const response = await fetch(
-    "https://douyaqki.github.io/anime_chart_summer_2025/anichar2025.json"
-  );
-
-  return response.json();
-}
-
-type T_chart = {
-  season_2025: {
-    id: number;
-    title: string;
-    description: string;
-    genre: string[];
-    studio: string;
-    img: string;
-  }[];
-};
+export default Cards;
