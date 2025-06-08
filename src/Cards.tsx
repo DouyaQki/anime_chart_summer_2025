@@ -1,6 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import "./App.css";
 import queryProps from "./queryProps";
+import { useRef } from "react";
 
 export type CBProperties = {
   id: number;
@@ -12,6 +13,7 @@ export type CBProperties = {
 };
 
 function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
+  const scrollRef = useRef<HTMLDivElement[]>([]);
   const { data, isPending, isError } = useQuery(queryProps());
 
   if (isError) return <p>UPA!</p>;
@@ -19,7 +21,7 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
 
   const season2025 = data[0].season_2025;
 
-  function CBCard(element: CBProperties) {
+  function CBCard(element: CBProperties, index: number) {
     const { id, img, title, studio, description, genre } = element;
 
     const thereIsNoTags = genre.length === 0;
@@ -42,7 +44,18 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
         </div>
 
         <div id="info" className="w-2/3 flex flex-col justify-between">
-          <p id="card-description" className="p-3 overflow-y-auto">
+          <p
+            id="card-description"
+            className="p-3 overflow-y-auto"
+            ref={(refEl) => {
+              if (refEl) {
+                scrollRef.current[index] = refEl;
+              }
+            }}
+            onMouseOut={() => {
+              scrollRef.current[index].scrollTo({ top: 0, behavior: "smooth" });
+            }}
+          >
             {description}
           </p>
           {thereIsNoTags ? null : (
@@ -63,7 +76,7 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
   }
 
   const season2025Filtered = season2025?.filter((el) => {
-    const regex = new RegExp(resultSearchedTitle, "g");
+    const regex = new RegExp(resultSearchedTitle.toLowerCase(), "g");
 
     return regex.test(el.title.toLowerCase());
   });
