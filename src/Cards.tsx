@@ -28,24 +28,21 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
 
     return (
       <article
-        className="overflow-hidden min-w-[20rem] max-w-90 h-50 text-[0.8rem] rounded-md bg-[#1f232d] flex"
+        className="overflow-hidden md:min-w-[20rem] md:max-w-90 h-50 text-[0.8rem] rounded-md bg-[#1f232d] flex z-30"
         key={id}
       >
-        <div id="preview" className="relative w-3/5 font-bold">
+        <div id="preview" className="relative w-44 font-bold">
           <div className="w-full bottom-0 bg-[#292929da] absolute flex flex-col gap-2 rounded-bl-md p-2">
             <p>{title}</p>
             <p className="text-[#00bcff]">{studio}</p>
           </div>
-          <div className="">
-            <img
-              src={img}
-              alt={title}
-              className="w-full bg-amber-600 rounded-bl-md rounded-tl-md"
-            />
-          </div>
+          <div
+            className="w-36 h-full rounded-bl-md rounded-tl-md bg-cover bg-center bg-no-repeat"
+            style={{ backgroundImage: `url(${img})` }}
+          />
         </div>
 
-        <div id="info" className="w-2/3 flex flex-col justify-between">
+        <div id="info" className="w-full flex flex-col justify-between">
           <p
             id="card-description"
             className="p-3 overflow-y-auto"
@@ -55,7 +52,10 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
               }
             }}
             onMouseOut={() => {
-              scrollRef.current[index].scrollTo({ top: 0, behavior: "smooth" });
+              scrollRef.current[index].scrollTo({
+                top: 0,
+                behavior: "smooth",
+              });
             }}
           >
             {description}
