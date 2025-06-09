@@ -28,19 +28,21 @@ function Cards({ resultSearchedTitle }: { resultSearchedTitle: string }) {
 
     return (
       <article
-        className="min-w-[20rem] max-w-90 h-50 text-[0.8rem] rounded-md bg-[#1f232d] flex"
+        className="overflow-hidden min-w-[20rem] max-w-90 h-50 text-[0.8rem] rounded-md bg-[#1f232d] flex"
         key={id}
       >
-        <div id="preview" className="relative w-2/5 font-bold">
+        <div id="preview" className="relative w-3/5 font-bold">
           <div className="w-full bottom-0 bg-[#292929da] absolute flex flex-col gap-2 rounded-bl-md p-2">
             <p>{title}</p>
             <p className="text-[#00bcff]">{studio}</p>
           </div>
-          <img
-            src={img}
-            alt={title}
-            className="h-full w-full bg-amber-600 rounded-bl-md rounded-tl-md"
-          />
+          <div className="">
+            <img
+              src={img}
+              alt={title}
+              className="w-full bg-amber-600 rounded-bl-md rounded-tl-md"
+            />
+          </div>
         </div>
 
         <div id="info" className="w-2/3 flex flex-col justify-between">

@@ -17,7 +17,7 @@ function App() {
         inputResult={inputResult}
         resultSearchedTitle={resultSearchedTitle}
       />
-      <main className="grid grid-cols-1 auto-rows-auto m-2 gap-4">
+      <main className="grid grid-cols-1 auto-rows-auto m-2 gap-4 md:grid-cols-2 lg:grid-cols-3">
         <Cards resultSearchedTitle={resultSearchedTitle} />
       </main>
     </>
